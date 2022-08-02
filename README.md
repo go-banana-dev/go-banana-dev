@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @go-banana-dev
+- 👋 Hi, I’m Peaker.
 - 👀 I’m interested in computer vision and robotics.
 - 🌱 I’m currently learning medical image processing and deep learning.
 - 💞️ I’m looking to collaborate on medical image processing.
-- 📫 How to reach me: Please edit a file to @me.
+- 📫 How to reach me: gf_zhou@zju.edu.cn.
 
 <!---
 go-banana-dev/go-banana-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
